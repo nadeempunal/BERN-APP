@@ -4,7 +4,8 @@ const Wallet =()=>
 {
     const connectWallet = async()=>{
 
-          console.log(Web3);
+          //console.log(Web3);
+          console.log("hello");
        try{
             if(window.ethereum)
             {
